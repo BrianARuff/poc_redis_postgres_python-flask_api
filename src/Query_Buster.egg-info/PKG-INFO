@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Query-Buster
+Version: 0.1.0
+Summary: PoC of using Redis to cache SQL query results to speed up REST API calls.
+Home-page: https://github.com/BrianARuff/poc_redis_postgres_python-flask_api.git
+Author: Brian Ruff
+Author-email: briananthonyruff@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: flask
+Requires-Dist: requests
+Requires-Dist: psycopg2-binary
+Requires-Dist: redis

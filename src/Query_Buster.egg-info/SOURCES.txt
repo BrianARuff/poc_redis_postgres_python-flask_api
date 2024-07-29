@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/Query_Buster.egg-info/PKG-INFO
+src/Query_Buster.egg-info/SOURCES.txt
+src/Query_Buster.egg-info/dependency_links.txt
+src/Query_Buster.egg-info/entry_points.txt
+src/Query_Buster.egg-info/requires.txt
+src/Query_Buster.egg-info/top_level.txt
